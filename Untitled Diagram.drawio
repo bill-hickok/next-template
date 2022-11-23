@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-23T17:43:22.077Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="-MqJTbVPkXqP5W4cOs96" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-23T17:50:03.148Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="p1s8JP7Hd7ym11OicG4Y" version="20.6.0" type="github">
   <diagram id="5rBxlIak1lxpF7ulkD5s" name="Page-1">
     <mxGraphModel dx="2147" dy="1886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1372,7 +1372,7 @@
         <mxCell id="fRMrnsRik14McwZrxI1f-316" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fRMrnsRik14McwZrxI1f-308" target="fRMrnsRik14McwZrxI1f-289">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fRMrnsRik14McwZrxI1f-318" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;X&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+        <mxCell id="fRMrnsRik14McwZrxI1f-318" value="&lt;span style=&quot;border-bottom: 1px dotted&quot;&gt;X - Q3&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
           <mxGeometry x="620" y="560" width="330" height="260" as="geometry" />
         </mxCell>
         <mxCell id="fRMrnsRik14McwZrxI1f-319" value="BCBS" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
@@ -1512,6 +1512,15 @@
         </mxCell>
         <mxCell id="fRMrnsRik14McwZrxI1f-420" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fRMrnsRik14McwZrxI1f-411" target="fRMrnsRik14McwZrxI1f-1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fRMrnsRik14McwZrxI1f-421" value="Q1" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="270" y="155" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fRMrnsRik14McwZrxI1f-422" value="Q2" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-160" width="80" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="fRMrnsRik14McwZrxI1f-423" value="Q3" style="ellipse;shape=doubleEllipse;margin=3;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1420" y="840" width="80" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
