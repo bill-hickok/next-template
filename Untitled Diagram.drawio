@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-23T17:51:29.418Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="5FBUD7O9ZN7gwmrvnT-7" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-23T17:56:00.966Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="MB9pLiveKLVV6ztuIoj4" version="20.6.0" type="github">
   <diagram id="5rBxlIak1lxpF7ulkD5s" name="Page-1">
     <mxGraphModel dx="2147" dy="1886" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -115,7 +115,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="__WcqTSJPxryp4ztu0ni-28" value="Institution" style="shape=table;startSize=50;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
-          <mxGeometry x="700" y="-110" width="180" height="180" as="geometry" />
+          <mxGeometry x="630" y="-50" width="180" height="180" as="geometry" />
         </mxCell>
         <mxCell id="__WcqTSJPxryp4ztu0ni-29" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;fillColor=none;collapsible=0;dropTarget=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="__WcqTSJPxryp4ztu0ni-28" vertex="1">
           <mxGeometry y="50" width="180" height="30" as="geometry" />
@@ -1373,10 +1373,10 @@
           <mxGeometry x="620" y="560" width="330" height="260" as="geometry" />
         </mxCell>
         <mxCell id="fRMrnsRik14McwZrxI1f-319" value="BCBS" style="rounded=1;arcSize=10;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
-          <mxGeometry x="820" y="-130" width="100" height="40" as="geometry" />
+          <mxGeometry x="770" y="-70" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="fRMrnsRik14McwZrxI1f-320" value="Institution_ID" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="1">
-          <mxGeometry x="430" y="390" width="150" height="30" as="geometry">
+          <mxGeometry x="430" y="410" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -1389,8 +1389,9 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="580" y="430" />
-              <mxPoint x="640" y="430" />
-              <mxPoint x="640" y="-45" />
+              <mxPoint x="600" y="430" />
+              <mxPoint x="600" y="10" />
+              <mxPoint x="630" y="10" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1521,6 +1522,11 @@
         </mxCell>
         <mxCell id="fRMrnsRik14McwZrxI1f-424" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fRMrnsRik14McwZrxI1f-178" target="__WcqTSJPxryp4ztu0ni-16">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fRMrnsRik14McwZrxI1f-426" value="type" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;" vertex="1" parent="1">
+          <mxGeometry x="790" y="290" width="150" height="30" as="geometry">
+            <mxRectangle width="150" height="30" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
